@@ -21,7 +21,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Dart" width="40" height="40"/> 
+  <img src="https://upload.vectorlogo.zone/logos/android/images/984ff48f-26f6-4d07-b183-ae2fea77a595.html" alt="Dart" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
